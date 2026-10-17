@@ -215,4 +215,4 @@ PrimoPDF is offered as a complete free version with all features and updates inc
 Unlock the full potential of your documents with PrimoPDF. **Download now and start creating professional PDFs for free!**
 
 ---
-**Last updated:** 2026-10-17 13:17:36 UTC
+**Last updated:** 2026-10-17 16:41:34 UTC
